@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="feplatformweb:war">
+    <output-path>$PROJECT_DIR$/feplatformweb/target</output-path>
+    <root id="archive" name="feplatformweb.war">
+      <element id="artifact" artifact-name="feplatformweb:war exploded" />
+    </root>
+  </artifact>
+</component>

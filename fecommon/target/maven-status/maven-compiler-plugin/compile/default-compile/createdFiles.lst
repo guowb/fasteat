@@ -1,0 +1,8 @@
+com\fasteat\server\util\CodeUtil.class
+com\fasteat\server\util\FastDFSUtils.class
+com\fasteat\dto\ITDto.class
+com\fasteat\server\util\SerializeUtil.class
+com\fasteat\dto\OrderDto.class
+com\fasteat\server\App.class
+com\fasteat\server\util\RandomStringTLUtils.class
+com\fasteat\server\key\AliAccessKey.class

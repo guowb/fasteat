@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fecookerweb:war">
+    <output-path>$PROJECT_DIR$/fecookerweb/target</output-path>
+    <root id="archive" name="fecookerweb.war">
+      <element id="artifact" artifact-name="fecookerweb:war exploded" />
+    </root>
+  </artifact>
+</component>

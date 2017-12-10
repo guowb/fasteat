@@ -1,0 +1,4 @@
+com\fasteat\interceptor\LoginInterceptor.class
+com\fasteat\action\OrderAction.class
+com\fasteat\action\FoodAction.class
+com\fasteat\action\TypeAction.class

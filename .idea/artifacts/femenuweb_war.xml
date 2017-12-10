@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="femenuweb:war">
+    <output-path>$PROJECT_DIR$/femenuweb/target</output-path>
+    <root id="archive" name="femenuweb.war">
+      <element id="artifact" artifact-name="femenuweb:war exploded" />
+    </root>
+  </artifact>
+</component>

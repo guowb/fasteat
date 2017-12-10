@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fecommon" />
+        <module name="fecookerweb" />
+        <module name="fecustomerweb" />
+        <module name="femanagerdao" />
+        <module name="femanagerservice" />
+        <module name="femenuweb" />
+        <module name="feplatformweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fasteat" target="1.8" />
+      <module name="fecommon" target="1.8" />
+      <module name="fecookerweb" target="1.8" />
+      <module name="fecustomerweb" target="1.8" />
+      <module name="femanagerdao" target="1.8" />
+      <module name="femanagerservice" target="1.8" />
+      <module name="femenuweb" target="1.8" />
+      <module name="feplatformweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

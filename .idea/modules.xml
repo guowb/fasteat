@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fasteat.iml" filepath="$PROJECT_DIR$/fasteat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fecommon/fecommon.iml" filepath="$PROJECT_DIR$/fecommon/fecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fecookerweb/fecookerweb.iml" filepath="$PROJECT_DIR$/fecookerweb/fecookerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fecustomerweb/fecustomerweb.iml" filepath="$PROJECT_DIR$/fecustomerweb/fecustomerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/femanagerdao/femanagerdao.iml" filepath="$PROJECT_DIR$/femanagerdao/femanagerdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/femanagerservice/femanagerservice.iml" filepath="$PROJECT_DIR$/femanagerservice/femanagerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/femenuweb/femenuweb.iml" filepath="$PROJECT_DIR$/femenuweb/femenuweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feplatformweb/feplatformweb.iml" filepath="$PROJECT_DIR$/feplatformweb/feplatformweb.iml" />
+    </modules>
+  </component>
+</project>

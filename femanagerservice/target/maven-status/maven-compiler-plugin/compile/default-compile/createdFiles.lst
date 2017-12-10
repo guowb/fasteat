@@ -1,0 +1,5 @@
+com\fasteat\menuservice\MenuService.class
+com\fasteat\platformservice\RestaurantServiceImpl.class
+com\fasteat\menuservice\MenuServiceImpl.class
+com\fasteat\platformservice\RestaurantService.class
+com\fasteat\dto\RestDTO.class
